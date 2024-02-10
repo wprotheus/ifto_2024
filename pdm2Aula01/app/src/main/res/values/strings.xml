@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JsonSemApiLocal</string>
+    <string name="digite_nome_aluno">Digite o nome do aluno</string>
+    <string name="digite_nome_disciplina">Digite o nome do disciplina</string>
+    <string name="digite_nota_aluno">Digite a nota do aluno</string>
+</resources>
